@@ -19,6 +19,7 @@ Task: Getting a gthub repository the right way
 ## Git Clone 
 >[!Note]
 > **Too long to read?**
+>
 >It creates a local copy of a remote Git repository
 
 You ever heard the term **distributed**? , it something that spread accross or have meany coppies or meany different forms of itself across meany holders. 
