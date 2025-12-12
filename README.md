@@ -16,6 +16,15 @@ Task: Getting a gthub repository the right way
 > READ the webpage again
 > ```
 
+## Git Clone 
+
+You ever heard the term **distributed**? , it something that spread accross or have meany coppies or meany different forms of itself across meany holders. 
+- What you mean by holders?
+- What i mean by copies?
+
+When starting out `git` will not make sence
+
+It creates a local copy of a remote Git repository
 ## Hint:
 
 - You can 'download', 'clone' the repo.
